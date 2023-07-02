@@ -1,0 +1,1 @@
+dubbo=com.ecommerce.batchtask.service.taskprocess.spi.DubboRemoveService
